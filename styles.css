@@ -1,0 +1,29 @@
+h1 { 
+    font-style: oblique;
+}
+
+div {
+    border: solid blue 10px; 
+    padding: 25px;
+    text-shadow: 2px 2px 5px gray
+    background-color: red; 
+    
+}
+
+img {
+   border-radius: 50px;
+}
+
+
+li {
+    margin: 10px; 
+    font-style: italic; 
+}
+
+body {
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/632/34/549/technology-monitor-alpha-coders-binary-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+    background-color: teal;
+    background-position: top;
+    
+}
